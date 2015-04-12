@@ -37,7 +37,7 @@
     {
         AllyTeam=1;
         Side=;
-        RGBColor=0.7843137383461 0 0;
+        RGBColor=0.64830505847931 0.31779661774635 0;
 
         TeamLeader=1;
         Handicap=0;
@@ -46,7 +46,7 @@
     }
     [AI1]
     {
-		Name=1: SYNCED_NOSHORTNAME;
+		Name=Zombies;
 		ShortName=NullAI;
 		Team=1;
 		IsFromDemo=0;
@@ -66,7 +66,7 @@
     }
     [PLAYER1]
     {
-        Name=0;
+        Name=Exorcist;
         Spectator=0;
         Team=0;
     }
