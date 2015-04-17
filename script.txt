@@ -1,6 +1,6 @@
 [GAME]
 {
-	MapName=Red Comet;
+	MapName=Brownwood;
 	GameMode=0;
 	GameType=Scenario Editor Corruption git;
 
